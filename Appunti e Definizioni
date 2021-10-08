@@ -1,9 +1,17 @@
 : Struttura dati
+  Struttura dati sono la base, permettono di effettuare operazioni e calcoli.
 : Lista
+  Le liste in Python sono una serie ordinata di valori identificati da un indice
   List comprehension
 : Tupla
+  Una tupla in Python è una sequenza di elementi con duplicati, che permette di mettere oggetti anche di tipi diversi, e anche ripetuti.
 : Set
+  Set sono variabili vettore che includono un insieme di elementi non ordinati e non duplicati
 : Dizionario
+  sono delle raccolte non ordinate di oggetti tramite coppie composte da chiavi e valori
 : Funzioni
+  Le funzioni possono essere richiamate ed usate in qualsiasi esercizio, sono calcoli 
 : Parametri Formali
+  sono le variabili che trovo nella definizione della funzione.
 : Parametri Attuali
+  sono le variabili in input nel momento di richiamo della funzione.
