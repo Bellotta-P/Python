@@ -1,0 +1,27 @@
+Database: Sono sistemi che servono per controllare i dati
+Database relazionale esempi
+  MySql, Sql server, Oracle, Acess.
+Database non relazionale esempi
+  
+DATABASE: Rende disponibile i dati in tempo reale a chiunque lo veda
+Campi = Colonne , Record = Righe
+3 tipi di database: Relazionali, Non relazionali e Key-Values
+(Utilizzano il linguaggio sql(MongoDB)
+
+Database relazionali
+  Strutturati sotto forma di pagelle.
+Database non relazionali (usati nell'ambito dei social)
+  Strutturati come documenti, per ogni cosa tutti i dati fanno parte del documento
+DataBase Key-Values
+  utilizza il metodo chiave valore
+  
+MongoDB (Più usato, utilizza file jason)
+  Jason = Formato testuale, utilizzato perchè più intuitito e facile da leggere.+
+  Dizionario == Object.
+  Lista == Array
+Come scaricare i dati da MongoDB
+  Istruzioni passo per passo:
+    Scaricare AltasDB
+    Fare il login con il proprio account istituzionale
+    Selezionare il cloud dove salvare, e il server più vicino
+   
